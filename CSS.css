@@ -1,0 +1,4 @@
+button[data-qa-id="chat-button"] {
+    bottom: 20px;
+    position: fixed;
+}
