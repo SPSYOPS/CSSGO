@@ -1,10 +1,4 @@
-element.style {
-    position: fixed;
-    width: 86px;
-    height: 86px;
-    max-height: 100vh;
+button[data-qa-id="chat-button"] {
     bottom: 30px;
-    left: 0px;
-    z-index: 12345;
-    right: auto;
+    position: fixed;
 }
