@@ -1,4 +1,10 @@
-button[data-qa-id="chat-button"] {
-    bottom: 900px;
+element.style {
     position: fixed;
+    width: 86px;
+    height: 86px;
+    max-height: 100vh;
+    bottom: 30px;
+    left: 0px;
+    z-index: 12345;
+    right: auto;
 }
